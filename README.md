@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/memorah/memorah/blob/8ac11bce9c62c8d67b3d6183d19e6c60a7b61ea0/githubheader-FM2022-v2.png" width="100%" alt="Banner">
+</div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+am+a+creative+frontend+web+developer;UX+%26+UI+designer+and++Adobe+XD+enthusiastic;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
 - Hi, I’m Filip, an ex-bank mSME relationship manager who has fallen in love with website building and coding
 - I've always been tempted to create websites, but because of my work I didn't have time for that. In 2020 came an unexpected sabbatical and I decided learn to how to code. I studied every day. I learned HTML, CSS and started working on JS and WP skill's. When I returned to the bank, I could no longer be there. I was  thinking allday's about what I will do when I turn on Visual Studio Code again. 
