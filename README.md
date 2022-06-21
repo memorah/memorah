@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/memorah/memorah/blob/2c619ca8ed048b313f6999aa9eed65ed2bee959e/githubheader-FM2022.png" width="100%" alt="mackov.dev">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+am+a+creative+frontend+web+developer;UX+%26+UI+designer+and++Adobe+XD+enthusiastic;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
 - Hi, I’m Filip, an ex-bank mSME relationship manager who has fallen in love with website building and coding
