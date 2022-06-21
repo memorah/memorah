@@ -2,7 +2,7 @@
   <img src="https://github.com/memorah/memorah/blob/9b61a6b060f016a9370074d9a7918719408c149b/FMheaderreadme2022.jpg" width="100%" alt="Banner">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+am+a+creative+frontend+web+developer;UX+%26+UI+designer+and++Adobe+XD+enthusiastic;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
 
 <details>
   <summary>about</summary>
@@ -57,4 +57,34 @@
   <br/>
   <h2 align="center"> my current activity </h2>
 
+</details>
+
+
+<details> 
+  <summary>CSS</summary>
+  <div>
+    <h2 align="center"> CSS style Jokes </h2>
+      <br/>
+.OCD {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;align-items: normal;<br/>
+}<br/><br/>
+.ninja {   <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;visibility: hidden; <br/>
+}<br/><br/>
+#titanic {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float: none;<br/>
+}<br/><br/>
+/* Brexit */<br/>
+#europe .country:not(.uk) {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;border: none;<br/>
+}<br/><br/>
+#muscles {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;display: flex;<br/>
+}<br/><br/>
+.right-people {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;top: 1%;<br/>
+}<br/><br/>
+.working-class {<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
+}<br/>
 </details>
