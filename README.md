@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/memorah/memorah/blob/8ac11bce9c62c8d67b3d6183d19e6c60a7b61ea0/githubheader-FM2022-v2.png" width="100%" alt="Banner">
+  <img src="https://github.com/memorah/memorah/blob/9b61a6b060f016a9370074d9a7918719408c149b/FMheaderreadme2022.jpg" width="100%" alt="Banner">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+am+a+creative+frontend+web+developer;UX+%26+UI+designer+and++Adobe+XD+enthusiastic;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
