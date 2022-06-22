@@ -68,9 +68,8 @@
 <details> 
   <summary>GitHub Profile Stats</summary>
   <div>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memorah&theme=dark&background=00000000&fire=FFFFFF&currStreakLabel=FFFFFF&border=DDDDDD00&ring=FFFFFF)](https://git.io/streak-stats)
   </div>    
 </details>
 
