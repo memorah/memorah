@@ -70,6 +70,8 @@
   <div>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memorah&theme=dark&background=00000000&fire=FFFFFF&currStreakLabel=FFFFFF&border=DDDDDD00&ring=FFFFFF)](https://git.io/streak-stats)
+    
+    
   </div>    
 </details>
 
@@ -109,7 +111,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
 }<br/>
 </details>
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wTArR8ALlGJOg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 
