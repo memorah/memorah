@@ -2,7 +2,7 @@
   <img src="https://github.com/memorah/memorah/blob/9b61a6b060f016a9370074d9a7918719408c149b/FMheaderreadme2022.jpg" width="100%" alt="Banner">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+Advice:+try+delete+cookies;.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+Advice:+try+delete+cookies;)](https://git.io/typing-svg)
 
 <details>
   <summary>About</summary>
@@ -22,8 +22,8 @@
   <summary>Contact me</summary>
 <div>
   <samp>
-    <h2 align="left">You can reach me by:</h2>
-    <p align="center">
+    <h2 align="left">You can contact me by:</h2>
+    <p align="left">
       <br/>
       <a href="https://www.linkedin.com/in/filip-mackov/" target="blank"><img align="left"
          src="https://img.shields.io/badge/linkedin-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black"
@@ -41,7 +41,8 @@
 
 <details>
 <summary>Skills</summary>
-
+  <br/>
+  
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-VUE.js-informational?style=flat&logo=Vue.js&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ffffff)
@@ -67,26 +68,32 @@
 
 <details> 
   <summary>GitHub Profile Stats</summary>
-  <div>
+  <br/>
+  <h2 align="left"> My current Profile Stats </h2>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memorah&theme=dark&background=00000000&fire=FFFFFF&currStreakLabel=FFFFFF&border=DDDDDD00&ring=FFFFFF)](https://git.io/streak-stats)
     
     
-  </div>    
+  
 </details>
 
 <details>
   <summary>Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="left"> My current activity </h2>
 
 </details>
 
 
 <details> 
-  <summary>CSS</summary>
-  <div>
-    <h2 align="center"> CSS style Jokes </h2>
+  <summary>End</summary>
+  
+<h2 align="left"> Thank you for reading </h2>
+      <br/>
+<img src="https://github.com/memorah/memorah/blob/14ff8e2c3c21085dbc355ddb34a72774acf7b555/gif.gif" width="100px;" alt="end">
+<br/>
+<div>
+    <h2 align="left"> CSS style Jokes </h2>
       <br/>
 .OCD {<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;align-items: normal;<br/>
@@ -111,7 +118,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
 }<br/>
 </details>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wTArR8ALlGJOg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-
-
