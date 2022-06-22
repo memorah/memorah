@@ -2,7 +2,7 @@
   <img src="https://github.com/memorah/memorah/blob/9b61a6b060f016a9370074d9a7918719408c149b/FMheaderreadme2022.jpg" width="100%" alt="Banner">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+from+Slovakia+based+in+Bratislava.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+Advice:+try+delete+cookies;.)](https://git.io/typing-svg)
 
 <details>
   <summary>about</summary>
@@ -88,3 +88,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
 }<br/>
 </details>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wTArR8ALlGJOg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
