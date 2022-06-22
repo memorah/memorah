@@ -28,9 +28,6 @@
       <a href="https://www.linkedin.com/in/filip-mackov/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="mackov.dev" height="30"/></a>
-      <a href="https://mailto:filip@mackov.dev" target="blank"><img align="center"
-         src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=envelop&logoColor=white"
-         alt="mackov.dev" height="30"/></a>
       <a href="https://www.instagram.com/mackov.dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="mackov.dev" height="30"/></a>
