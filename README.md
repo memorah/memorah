@@ -56,6 +56,9 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Pretier-informational?style=flat&logo=Prettier&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Zeplin-informational?style=flat&logo=none&logoColor=white&color=ffffff)
 
 </details>
 
