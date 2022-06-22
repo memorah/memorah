@@ -25,19 +25,39 @@
     <h2 align="left">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/filip-mackov/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      <a href="https://www.linkedin.com/in/filip-mackov/" target="blank"><img align="left"
+         src="https://img.shields.io/badge/linkedin-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black"
          alt="mackov.dev" height="30"/></a>
-      <a href="https://www.instagram.com/mackov.dev/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+      <a href="https://mailto:filip@mackov.ev" target="blank"><img align="left"
+         src="https://img.shields.io/badge/mail-%23ffffff.svg?style=for-the-badge&logo=Minutemailer&logoColor=black"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.instagram.com/mackov.dev/" target="blank"><img align="left"
+         src="https://img.shields.io/badge/instagram-%23ffffff.svg?style=for-the-badge&logo=Instagram&logoColor=black"
          alt="mackov.dev" height="30"/></a>
     </p>
   </samp>
 </div>
 </details>
+<details>
+<summary>Skills</summary>
+
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-VUE.js-informational?style=flat&logo=Vue.js&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=ffffff)
+
+</details>
 
 
-
+</details>
 
 <details> 
   <summary>GitHub Profile Stats</summary>
@@ -85,3 +105,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
 }<br/>
 </details>
+
+
+
+
