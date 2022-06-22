@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+Advice:+try+delete+cookies;.)](https://git.io/typing-svg)
 
 <details>
-  <summary>about</summary>
+  <summary>About</summary>
 <div>
 <h2 align="left"> Something about me: </h2>
 <ul>
@@ -88,4 +88,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bottom: 99%;<br/>
 }<br/>
 </details>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wTArR8ALlGJOg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
