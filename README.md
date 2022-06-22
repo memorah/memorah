@@ -36,8 +36,9 @@
          alt="mackov.dev" height="30"/></a>
     </p>
   </samp>
-</div>
+</div><br>
 </details>
+
 <details>
 <summary>Skills</summary>
 
@@ -47,6 +48,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Tools-Woocommerce-informational?style=flat&logo=Woo&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=ffffff)
