@@ -77,14 +77,6 @@
   
 </details>
 
-<details>
-  <summary>Activity Graph</summary>
-  <br/>
-  <h2 align="left"> My current activity </h2>
-
-</details>
-
-
 <details> 
   <summary>End</summary>
   
