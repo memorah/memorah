@@ -71,7 +71,7 @@
   <br/>
   <h2 align="left"> My current Profile Stats </h2>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memorah&theme=dark&background=00000000&fire=FFFFFF&currStreakLabel=FFFFFF&border=DDDDDD00&ring=FFFFFF)](https://git.io/streak-stats)
+ [![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=memorah](http://github-readme-streak-stats.herokuapp.com?user=memorah)&theme=dark&background=00000000&fire=FFFFFF&currStreakLabel=FFFFFF&border=DDDDDD00&ring=FFFFFF)](https://git.io/streak-stats)
     
     
   
