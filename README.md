@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/memorah/memorah/blob/e6c441e876089f72031b4e48a56cd4031f373d82/fm-banner-v2.png" width="100%" alt="Banner">
-  <img src="" width="100%" alt="Banner">
+ <img src="https://github.com/memorah/memorah/blob/e6c441e876089f72031b4e48a56cd4031f373d82/fm-banner-v2.png" width="100%" alt="Banner">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&color=FFFFFF&width=600&lines=+I+turn+caffeine+into+websites;Sometimes+I+just+need+<br>;+Advice:+try+delete+cookies;)](https://git.io/typing-svg)
