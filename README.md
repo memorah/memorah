@@ -60,6 +60,7 @@
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Pretier-informational?style=flat&logo=Prettier&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Tools-Zeplin-informational?style=flat&logo=none&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Agile&nbsp;Development-Scrum-informational?style=flat&logo=none&logoColor=white&color=ffffff)
 
 </details>
 
